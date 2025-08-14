@@ -15,15 +15,15 @@ A clean and responsive flower photo gallery built with simple **HTML** and **CSS
 Open the `index.html` file in your browser to see the gallery in action.
 
 ## Project Structure
-flower-gallery
-├── index.html
-├── style.css
-├── rose.jpeg
-├── lotus.jpeg
-├── tulip.jpeg
-├── pansy.jpeg
-├── mogra.jpeg
-└── poppy.jpeg
+flower-gallery <br>
+├── index.html <br>
+├── style.css <br>
+├── rose.jpeg <br>
+├── lotus.jpeg <br>
+├── tulip.jpeg <br>
+├── pansy.jpeg <br>
+├── mogra.jpeg <br>
+└── poppy.jpeg <br>
 
 ## How to Use
 
@@ -47,6 +47,6 @@ flower-gallery
 
 This project is open source and available under the MIT License. Feel free to use and modify it!
 
-**Created by [Your Name]**
+**Created by**
 Bhakti Kateja
 
